@@ -1,0 +1,44 @@
+﻿{
+	"Sources/Forms/TEST/method.4dm": {
+		"left": 293,
+		"top": 318,
+		"width": 1345,
+		"height": 711
+	},
+	"Sources/Methods/meta_item.4dm": {
+		"left": 520,
+		"top": 442,
+		"width": 1345,
+		"height": 685
+	},
+	"Sources/Methods/m_current_item_value.4dm": {
+		"left": 467,
+		"top": 487,
+		"width": 1345,
+		"height": 711
+	},
+	"Sources/Forms/TEST/ObjectMethods/Items.4dm": {
+		"left": 306,
+		"top": 276,
+		"width": 1345,
+		"height": 711
+	},
+	"Trash/Methods/(m_f).4dm": {
+		"left": 718,
+		"top": 458,
+		"width": 931,
+		"height": 711
+	},
+	"Sources/Forms/TEST_FIX/method.4dm": {
+		"left": 317,
+		"top": 387,
+		"width": 1345,
+		"height": 685
+	},
+	"Sources/Methods/map_flat_collection.4dm": {
+		"left": 462,
+		"top": 313,
+		"width": 1345,
+		"height": 685
+	}
+}

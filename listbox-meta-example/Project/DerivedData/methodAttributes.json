@@ -1,0 +1,25 @@
+﻿{
+	"methods": {
+		"meta_item": {
+			"timeStamp": "2020-06-28T02:34:52.828Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "incapable"
+			}
+		},
+		"m_current_item_value": {
+			"timeStamp": "2020-06-28T02:06:01.114Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "incapable"
+			}
+		},
+		"map_flat_collection": {
+			"timeStamp": "2020-06-28T02:24:39.693Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "capable"
+			}
+		}
+	}
+}

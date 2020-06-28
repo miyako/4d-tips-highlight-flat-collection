@@ -1,0 +1,12 @@
+﻿{
+	"forms": {
+		"TEST": {
+			"timeStamp": "2020-06-28T02:36:52.327Z",
+			"destination": "detailScreen"
+		},
+		"TEST_FIX": {
+			"timeStamp": "2020-06-28T02:35:59.657Z",
+			"destination": "detailScreen"
+		}
+	}
+}

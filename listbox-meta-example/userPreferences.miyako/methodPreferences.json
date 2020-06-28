@@ -1,0 +1,56 @@
+﻿{
+	"Sources/Forms/TEST/method.4dm": {
+		"startSelection": 9,
+		"endSelection": 9,
+		"firstSelectedLine": 21,
+		"lastSelectedLine": 21,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-06-28T02:08:52.641Z"
+	},
+	"Sources/Methods/meta_item.4dm": {
+		"startSelection": 7,
+		"endSelection": 7,
+		"firstSelectedLine": 13,
+		"lastSelectedLine": 13,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-06-28T02:34:52.828Z"
+	},
+	"Sources/Methods/m_current_item_value.4dm": {
+		"startSelection": 9,
+		"endSelection": 9,
+		"firstSelectedLine": 14,
+		"lastSelectedLine": 14,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-06-28T02:06:01.114Z"
+	},
+	"Sources/Forms/TEST/ObjectMethods/Items.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 5,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-06-28T02:11:18.020Z"
+	},
+	"Sources/Forms/TEST_FIX/method.4dm": {
+		"startSelection": 12,
+		"endSelection": 6,
+		"firstSelectedLine": 13,
+		"lastSelectedLine": 13,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-06-28T02:22:28.679Z"
+	},
+	"Sources/Methods/map_flat_collection.4dm": {
+		"startSelection": 16,
+		"endSelection": 0,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-06-28T02:24:39.693Z"
+	}
+}
