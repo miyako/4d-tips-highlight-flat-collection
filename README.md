@@ -21,6 +21,7 @@
 
 ```4d
 $items.index:=Formula(This.col:=This.col.map("map_flat_collection";New object("pos";1)))
+$items.index()
 ```
 
 ```4d
